@@ -1,9 +1,4 @@
-# Notas:
+### Chat-app
+This is a NodeJS Web Sockets app exercise with Socket.io.
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
-
-Recuerden que deben de reconstruir los módulos de node con el comando
-
-```
-npm install
-```
+Original author: [Fernando Herrera](https://fernando-herrera.com/#/home)
